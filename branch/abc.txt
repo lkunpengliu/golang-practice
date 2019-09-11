@@ -1,0 +1,4 @@
+abcdef
+123456
+你好
+hello
