@@ -2,22 +2,24 @@
 
 ## 目录
 
-### [Hello Go](./basic/hello.go)
+### 基础语法和内建容器
 
-### [变量](./variables/main.go)
+#### [Hello Go](./basic/basic/hello.go)
 
-### [条件语句](./branch/main.go)
+#### [变量](./basic/variables/main.go)
 
-### [循环](./loop/main.go)
+#### [条件语句](./basic/branch/main.go)
 
-### [函数](./function/main.go)
+#### [循环](./basic/loop/main.go)
 
-### [指针](./point/main.go)
+#### [函数](./basic/function/main.go)
 
-### [数组](./arrays/main.go)
+#### [指针](./basic/point/main.go)
 
-### [切片](./slice/main.go)
+#### [数组](./basic/arrays/main.go)
 
-### [map](./map/main.go)
+#### [切片](./basic/slice/main.go)
 
-### [字符串](./strings/main.go)
+#### [map](./basic/map/main.go)
+
+#### [字符串](./basic/strings/main.go)
