@@ -17,3 +17,7 @@
 ### [数组](./arrays/main.go)
 
 ### [切片](./slice/main.go)
+
+### [map](./map/main.go)
+
+### [字符串](./strings/main.go)
