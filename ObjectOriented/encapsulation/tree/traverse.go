@@ -1,10 +1,11 @@
 package tree
 
-func (node *Node) Traverse() {
+// InOrder tree node的中序遍历方法
+func (node *Node) InOrder() {
 	if node == nil {
 		return
 	}
-	node.Left.Traverse()
+	node.Left.InOrder()
 	node.Print()
-	node.Right.Traverse()
+	node.Right.InOrder()
 }

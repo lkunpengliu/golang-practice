@@ -23,3 +23,9 @@
 #### [map](./basic/map/main.go)
 
 #### [字符串](./basic/strings/main.go)
+
+### 面向对象
+
+#### [结构体和方法](./ObjectOriented/struct/main.go)
+
+#### [包和封装以及包扩展](./ObjectOriented/encapsulation/main.go)
